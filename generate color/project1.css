@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    /* display: flex;
+    justify-content: center; */
+}
+div{
+    width: 500px;
+    height: 100px;
+    border: 1px solid black;
+    margin: auto;
+}   
+#container{
+    width: 550px;
+    height: 300px;
+    border: 1px solid black;
+    margin: auto;
+    background-color: lightblue;
+
+}   
